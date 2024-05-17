@@ -1,0 +1,21 @@
+{
+  "name": "diligentsquad/reports",
+  "type": "tastyigniter-extension",
+  "description": "Provides full report generation for Report Module in TouchFreeWaiter...",
+  "authors": [
+    {
+      "name": "Diligentsquad",
+    }
+  ],
+  "extra": {
+    "tastyigniter-extension": {
+      "code": "diligentsquad.reports",
+      "name": "reports",
+      "icon": {
+        "class": "fa fa-file",
+        "backgroundColor": "#000000",
+        "color": "#FFF"
+      }
+    }
+  }
+}
